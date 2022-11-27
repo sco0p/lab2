@@ -1,0 +1,13 @@
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.exe
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.deps.json
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.json
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.dev.json
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.dll
+C:\Users\ozima\source\repos\lab2\User\bin\Debug\netcoreapp3.1\User.pdb
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.AssemblyInfoInputs.cache
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.AssemblyInfo.cs
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.csproj.CoreCompileInputs.cache
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.dll
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.pdb
+C:\Users\ozima\source\repos\lab2\User\obj\Debug\netcoreapp3.1\User.genruntimeconfig.cache
